@@ -1,11 +1,29 @@
 ---
-title: "trevor-edgull-portfolio"
+title: "Trevor Edgull"
+about:
+  template: jolla
+  image: Trevor_seattle.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/trevor-edgull/
+    - icon: github
+      text: Github
+      href: https://github.com/TrevorEdgull
 ---
 
-This is a Quarto website.
+Trevor Edgull is a current student of Statistics and Data Science at [California State University, Monterey Bay](http://csumb.edu/mathstat).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+California State University, Monterey Bay \| Seaside, CA\
+B.S. in Statistics and Data Science \| 2025 - Present
+
+Hartnell College \| Salinas, CA\
+A.S. in Mathematics \| 2023 - 2025
+
+## Experience
+
+Riverside Home Management \| Concierge \| July 2023 - present
+
+Central Coast Automotive \| Delivery Specalist \| June 2022- June 2023
