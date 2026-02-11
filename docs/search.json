@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Trevor Edgull. I am a Statistics and Data Science major at CSUMB. I have a Math Associate’s from Hartnell college in Salinas, California. I am employed as a concierge for a home owners association management company. I enjoy reading and playing video games such as League of Legends in my free time."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Trevor Edgull",
+    "section": "",
+    "text": "Trevor Edgull is a current student of Statistics and Data Science at California State University, Monterey Bay."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Trevor Edgull",
+    "section": "Education",
+    "text": "Education\nCalifornia State University, Monterey Bay | Seaside, CA\nB.S. in Statistics and Data Science | 2025 - Present\nHartnell College | Salinas, CA\nA.S. in Mathematics | 2023 - 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Trevor Edgull",
+    "section": "Experience",
+    "text": "Experience\nRiverside Home Management | Concierge | July 2023 - present\nCentral Coast Automotive | Delivery Specalist | June 2022- June 2023"
+  }
+]
