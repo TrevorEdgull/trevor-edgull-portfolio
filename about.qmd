@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+My name is Trevor Edgull. I am a Statistics and Data Science major at CSUMB. I have a Math Associate's from Hartnell college in Salinas, California. I am employed as a concierge for a home owners association management company. I enjoy reading and playing video games such as League of Legends in my free time.
