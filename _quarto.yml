@@ -9,7 +9,7 @@ website:
         text: Home
       - href: about.qmd
         text: "About Me"
-      - href: portfolio-final/TEdgull-Final_Project.qmd
+      - href: portfolio-final/TEdgull_Final_Project.qmd
         text: "The Simpson Analysis"
 
 
