@@ -7,7 +7,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: "About Me"
+      - href: portfolio-final/TEdgull-Final_Project.qmd
+        text: "The Simpson Analysis"
+
+
+
 
 format:
   html:
